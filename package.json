@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "@nechlophomeriaa/spotifydl": "^1.0.15",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "acrcloud": "^1.4.0",
+    "aki-api": "^x",
+    "assemblyai": "^2.0.2",
+    "axios": "^0.21.1",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "end-of-stream": "^1.4.4",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "formdata-node": "^6.0.3",
+    "fs-extra": "^11.1.0",
+    "https": "^1.0.0",
+    "jimp": "^0.16.13",
+    "jsdom": "^19.0.0",
+    "link-preview-js": "^3.0.5",
+    "linkifyjs": "^4.1.0",
+    "megajs": "^1.1.6",
+    "millify": "^6.1.0",
+    "moment-timezone": "^0.5.40",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.2.0",
+    "os": "^0.1.2",
+    "pino": "^7.8.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "scr-emoji": "^0.0.3"
+  },
+  "name": "Yuno Bot",
+  "description": "Sempre buscando melhorar, qualquer dúvida WhatsApp: +55 62 9241-2489",
+  "version": "1.0.0",
+  "notice": "Versão 1.0. Oficial!",
+  "update_date": "05-05-2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "ulimit -c 0 && bash start.sh sim",
+    "test": "node connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "author": "Kimere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://yurimodz-apis.xyz"
+}
